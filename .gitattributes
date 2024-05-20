@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+public/ALEMDAR_REKLAM_FİLMİ_2021.mp4 filter=lfs diff=lfs merge=lfs -text
